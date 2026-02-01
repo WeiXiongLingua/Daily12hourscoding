@@ -1,6 +1,6 @@
 📅 Date: 01/02/2026
 
-* Total hours: 
+* Total hours: 13 hours
 
 ## 🎯 Main focus (today)
 
@@ -11,4 +11,8 @@
 5. Languages
 
 ## 🧠 What I actually did
+
+change the idea to trae
+learn the python and js grammar
+some DL leetcode problems
 
