@@ -15,4 +15,4 @@
 change the idea to trae
 learn the python and js grammar
 some DL leetcode problems
-
+learn about the project structure
