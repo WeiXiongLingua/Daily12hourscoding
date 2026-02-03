@@ -1,6 +1,6 @@
 📅 Date: 03/02/2026
 
-* Total hours: 
+* Total hours: 12 hours
 
 ## 🎯 Main focus (today)
 
@@ -10,4 +10,10 @@
 4. ML
 5. SQL
 ## 🧠 What I actually did
+
+DL in Cpp,
+HTML CSS,
+JS GRAMMAR,
+SQL
+
 
